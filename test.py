@@ -6,3 +6,8 @@ def test_function:
 def test_function_2:
   print("Hello world")
   return
+
+
+def test_function_3:
+  print("Hello world")
+  return
